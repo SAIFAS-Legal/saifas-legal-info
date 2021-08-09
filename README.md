@@ -10,7 +10,7 @@
 - Таганрог- Ростов-на-Дону
 
 ## Электронная почта
-- (mailto:legal-info@saifas.org)
+- <legal-info@saifas.org>(mailto:legal-info@saifas.org)
 
 ## Стоимость наших услуг
 - Скоро опубликуем прейскурант
